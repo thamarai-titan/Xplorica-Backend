@@ -1,4 +1,5 @@
-[
+
+const data = [
   {
     id: 1,
     place: "Paris",
@@ -552,3 +553,4 @@
     ],
   },
 ];
+export default data
